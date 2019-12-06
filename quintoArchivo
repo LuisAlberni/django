@@ -7,3 +7,6 @@ git push origin uno
 
 y resultó gracias a Dios.
 
+para volver al master
+git checkout master
+
