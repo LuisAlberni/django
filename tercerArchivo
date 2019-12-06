@@ -1,0 +1,4 @@
+este archivo lo creé en el local para subirlo al remoto
+git add tercerArchivo lo lleva al index
+git commit -m "mensaje" lo lleva al repositorio local
+git push origin master
