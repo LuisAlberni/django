@@ -1,4 +1,12 @@
 este archivo lo estoy escribiendo en el workspace de visual studio code,
 entiendo que lo pasará a mi archivo repositorio local C:Users\Policlínico\gitpoli\django\
 me aparece de color verde y con una U que significa untracked
+puse save all y cerre vsc, al cerrarse apareció ventana indicando updating vsc
+al volver a entrar sigue segundoArchivo como untracked
+ahora puse git add segundoArchivo y letra pasó a A de Index Added
+git commit -m "Commit message"
+pero me indicó: Please tell me who you are. Debo correr git config --global user.email "you@example.com"
+debí escribir el e-mail entre comillas sí no me daba error y el mensaje también lo escribí así
+ahora el nombre de archivo no tiene letra de alarmas
+
 
