@@ -1,0 +1,9 @@
+creado para subir sólo a rama uno, antes me faltó cambiarme a la rama con:
+git checkout -b uno
+
+git add quintoArchivo
+git commit -m "mensaje"
+git push origin uno
+
+y resultó gracias a Dios.
+
