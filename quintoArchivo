@@ -9,8 +9,9 @@ y resultó gracias a Dios.
 
 para volver al master
 git checkout master
-<<<<<<< HEAD
 ...
-=======
-
->>>>>>> bcbbfa49ef2a29fa31966074b8b6fd4e6cd2f406
+el quinto archivo en la rama uno tenía una modificación hice
+git add quintoArchivo
+quedo con la letra M indicando modified index
+git commit -m "mensaje"
+me mostró opciones a elegir en el mismo archivo
