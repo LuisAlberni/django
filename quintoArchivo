@@ -9,4 +9,8 @@ y resultó gracias a Dios.
 
 para volver al master
 git checkout master
+<<<<<<< HEAD
 ...
+=======
+
+>>>>>>> bcbbfa49ef2a29fa31966074b8b6fd4e6cd2f406
