@@ -1,0 +1,8 @@
+para borrar archivo desde terminal
+git rm 'entre apóstrofe cuando el nombre del archivo tiene espacios'
+al hacer git status aparece el archivo color verde
+
+git commit -m "pasando a cambio al repositorio local"
+git push origin uno o origin master para cambiar repositorio remoto
+
+todo ok 
