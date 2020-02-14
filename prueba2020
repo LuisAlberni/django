@@ -9,4 +9,6 @@ grabe archivo
 hice git add prueba2020 / pasó a la letra A de added
 ahora el archivo no tiene ninguna letra de alarma
 
-hice nueva modificación a archivo, ahora se marcar en amarillo y la letra M de modified
+hice nueva modificación a archivo y grabé, ahora se marcar en amarillo y la letra M de modified
+hice git add prueba2020, mantiene letra M
+hice git commit... / pasó a ninguna letra de alarma
