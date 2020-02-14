@@ -16,3 +16,5 @@ hice git commit... / pasó a ninguna letra de alarma
 
 hice git status / me indicó que estaba en rama master
 hice un git push origin master / subió el archivo prueba2020 a github
+
+probando si cambios se reflejan en consola git
