@@ -1,1 +1,12 @@
+abrí la carpeta en pc que está bajo git para trabajar con archivos
+pensando en enlazarme por primera vez vsc a github
+desde terminal de vsc
+git config --global user.email lalberni@gmail.com
+git config --global user.name LuisAlberni
+
 al crear nuevo archivo en vsc, éste se marca en verde y la letra U
+grabe archivo
+hice git add prueba2020 / pasó a la letra A de added
+ahora el archivo no tiene ninguna letra de alarma
+
+hice nueva modificación a archivo, ahora se marcar en amarillo y la letra M de modified
