@@ -4,6 +4,7 @@ desde terminal de vsc
 git config --global user.email lalberni@gmail.com
 git config --global user.name LuisAlberni
 
+tengo 2 ramas en repositorio django, ahora estoy en rama uno
 al crear nuevo archivo en vsc, éste se marca en verde y la letra U
 grabe archivo
 hice git add prueba2020 / pasó a la letra A de added
